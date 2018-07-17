@@ -96,3 +96,5 @@ friends: [
         href: "https://github.com/ZhouYou528"
     }
 ]
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
