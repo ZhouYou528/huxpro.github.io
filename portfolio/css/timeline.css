@@ -172,15 +172,32 @@ body, html {
 	background-size: 20px;
 }
 
-.i-react:before {
+.i-angular:before {
 	content: "";
 	display: block;
 	width: 40px;
 	height: 40px;
-	background: url("../images/logo-react.png") 50% 50% no-repeat;
+	background: url("../images/logo-angular.png") 50% 50% no-repeat;
 	background-size: 22px;
 }
 
+.i-mongo:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/mongodb.png") 50% 50% no-repeat;
+	background-size: 22px;
+}
+
+.i-node:before {
+	content: "";
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: url("../images/nodejs-logo.png") 50% 50% no-repeat;
+	background-size: 22px;
+}
 /******* Hux Branch *****/
 
 /* navbar - dark mode */
