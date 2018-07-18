@@ -65,8 +65,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-122484998-1'            # Format: UA-xxxxxx-xx
-ga_domain: zhousir-blog.herokuapp.com
+ga_track_id: 'UA-122567617-1'            # Format: UA-xxxxxx-xx
+ga_domain: www.zhousir.me
 
 
 
