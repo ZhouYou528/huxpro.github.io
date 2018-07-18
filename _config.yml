@@ -4,9 +4,9 @@ SEOTitle: 周游的博客 | ZhouSir Blog
 header-img: img/home-bg.jpg
 email: yzhou0528@gmail.com
 description: "Software Engineer"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+keyword: "博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+url: "http://zhousir-blog.herokuapp.com/"               # your host, for absolute URL
+baseurl: ""                                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -53,7 +53,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: zhousir
 
 # Netease settings
 netease_comment: false
@@ -65,14 +65,14 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 'UA-122484998-1'            # Format: UA-xxxxxx-xx
+ga_domain: zhousir-blog.herokuapp.com
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "to be edit"
+sidebar-about-description: "Eater & Coder & Traveller"
 sidebar-avatar: /img/avatar-zhou.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
