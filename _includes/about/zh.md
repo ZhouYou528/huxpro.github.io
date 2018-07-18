@@ -1,7 +1,7 @@
 > 稻花香里说丰年，  
 > 听取人生经验。
 
-我是*@ZhouSir*（周游）自从接触过[MEAN Stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle))之后就爱上了网络编程, 目前正在完成菜鸟的自我救赎，不要忘记去看看我的项目GatorBook(网页加载的时候请耐心一点，因为访问用户少服务器大多时间处在休眠状态)
+我是*@ZhouSir*（周游）自从接触过[MEAN Stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle))之后就爱上了网络编程, 目前正在完成菜鸟的自我救赎，别忘了去看看我的项目GatorBook(网页加载的时候请耐心一点，因为访问用户少服务器大多时间处在休眠状态)
 
 ##### Talks
 
